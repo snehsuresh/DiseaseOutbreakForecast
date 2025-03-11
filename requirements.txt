@@ -1,0 +1,30 @@
+
+# Web scraping and API calls
+requests
+beautifulsoup4
+scrapy
+
+# Data manipulation and analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+dash
+
+# Statistical modeling
+scipy
+statsmodels
+
+# Machine Learning
+tensorflow
+keras
+
+# Web deployment
+flask
+
+# Scheduling and logging
+schedule
+logging
